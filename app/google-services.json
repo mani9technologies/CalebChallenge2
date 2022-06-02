@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702317075749",
+    "project_id": "cs-chat-58c28",
+    "storage_bucket": "cs-chat-58c28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702317075749:android:e3aa4fa3fe8204bea98ecc",
+        "android_client_info": {
+          "package_name": "com.bms.calebchallenge2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702317075749-208k0bphbsn2hbitn5tosfmiq75ud27l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu6n6LRN7pxchqx6ku-XDOQZAAAav_Trs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702317075749-208k0bphbsn2hbitn5tosfmiq75ud27l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
